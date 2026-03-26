@@ -1,0 +1,21 @@
+{
+  "name": "weather-aware-order-checker",
+  "version": "1.0.0",
+  "description": "A system that checks weather conditions and flags delivery delays for orders",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "run": "node app.js"
+  },
+  "keywords": [
+    "weather",
+    "orders",
+    "delivery",
+    "api"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
